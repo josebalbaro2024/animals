@@ -1,0 +1,22 @@
+
+
+
+
+
+.footer{
+    background-image: linear-gradient(to right,#051937,#004367,#00728f,#00a4a9,#49d5b3);
+}
+
+@media (max-width: 760px){
+    .texto2{
+        display: none;
+    }
+    .contenido-imagen{
+        width: 250%;
+        height: 250%;
+    }
+    .footer{
+        padding-left: 150px;
+    }
+    
+}
